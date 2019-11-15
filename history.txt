@@ -1,0 +1,1000 @@
+ 1053  git add .
+ 1054  git commit -m"third commit"
+ 1055  git status
+ 1056  git add .
+ 1057  git commit -m"final website"
+ 1058  git config --global user.name"slovo-mtshali"
+ 1059  git config --globaluser.email"mtshaliamo@gmail.com"
+ 1060  git config --global user.name"slovo-mtshali"
+ 1061  git config --global user.email"lwazislovo@gmail.com"
+ 1062  git remote add origin https://github.com/slovo-mtshali/myPortfolioWebsite.git
+ 1063  git push -u origin master
+ 1064  git remote add origin https://github.com/slovo-mtshali/myPortfolioWebsite.git
+ 1065  git push -u origin master
+ 1066  npm -v
+ 1067  mkdir mochatest
+ 1068  cd mochatest/
+ 1069  npm init
+ 1070  code .
+ 1071  npm init
+ 1072  npm i -D jest
+ 1073  jasmine_testing
+ 1074  mkdir jasmine_testing
+ 1075  cd jasmine_testing/
+ 1076  code .
+ 1077  ls
+ 1078  cd ..
+ 1079  ls
+ 1080  touch spec
+ 1081  rm spec 
+ 1082  mkdir specs
+ 1083  cd specs/
+ 1084  touch test.js
+ 1085  touch ../specsrunner.html
+ 1086  sudo apt upgrade && npm install -g jasmine
+ 1087  jasmine -v
+ 1088  sudo apt install -g jasmine
+ 1089  node -v
+ 1090  sudo apt get update
+ 1091  sudo apt-get install curl
+ 1092  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+ 1093  sudo apt-get install nodejs
+ 1094  npm     sudo apt upgrade && npm install -g jasmine
+ 1095  npm install -g jasmine
+ 1096  sudo npm install -g jasmine
+ 1097  ls
+ 1098  cd ../js/
+ 1099  cd ../jas
+ 1100  cd ..
+ 1101  ls
+ 1102  cd /
+ 1103  ls
+ 1104  sudo apt upgrade && npm install -g jasmine
+ 1105  npm install -g jasmine
+ 1106  sudo npm install  -g jasmine
+ 1107  jasmine -v
+ 1108  node -v
+ 1109  jasmine init
+ 1110  ls
+ 1111  cd spec
+ 1112  ls
+ 1113  cd ..
+ 1114  cd spec
+ 1115  touch test.spec.js
+ 1116  jasmine examples
+ 1117  jasmine init
+ 1118  pwd
+ 1119  cd spec/
+ 1120  touch myTest.spec.js
+ 1121  ls
+ 1122  cd support/
+ 1123  ls
+ 1124  cd ..
+ 1125  jasmine
+ 1126  clear
+ 1127  jasmine
+ 1128  jasmine ../../slovo
+ 1129  jasmine ../
+ 1130  jasmine ..
+ 1131  jasmine init
+ 1132  touch myTest.spec.js
+ 1133  jasmine
+ 1134  clear
+ 1135  jasmine
+ 1136  ,jasmine
+ 1137  jasmine
+ 1138  jasmine../
+ 1139  jasmine
+ 1140  clear
+ 1141  jasmine
+ 1142  clear
+ 1143  jasmine
+ 1144  clear
+ 1145  jasmine
+ 1146  clear
+ 1147  jasmine
+ 1148  jasmine init
+ 1149  cd spec/
+ 1150  touch My_testjasmine
+ 1151  jasmine
+ 1152  jasmine examples
+ 1153  clear
+ 1154  jasmine
+ 1155  cd ..
+ 1156  jasmine
+ 1157  jasmine init
+ 1158  cd spec/
+ 1159  touch calculator.spec.js
+ 1160  mkdir ../src
+ 1161  cd ../src
+ 1162  touch calculator.js
+ 1163  ls
+ 1164  clear
+ 1165  jasmine
+ 1166  jasmine -v
+ 1167  node -v
+ 1168  jasmine
+ 1169  cd ..
+ 1170  cd spec
+ 1171  jasmine
+ 1172  cd ..
+ 1173  jasmine
+ 1174  cd spec
+ 1175  jasmine
+ 1176  cd ../src
+ 1177  jasmine
+ 1178  ;jasmine
+ 1179  jasmine
+ 1180  cd ..
+ 1181  jasmine
+ 1182  jasnmine
+ 1183  jasmine
+ 1184  jsamine
+ 1185  jasmine
+ 1186  clear
+ 1187  jasmine
+ 1188  clear
+ 1189  jasmine
+ 1190  clear
+ 1191  jasmine
+ 1192  /*
+ 1193  jasmine
+ 1194  clear
+ 1195  jasmine
+ 1196  git init
+ 1197  git config -g user.name"Gugulethu_webdev"
+ 1198  git config --g user.name"Gugulethu-Webdev"
+ 1199  git config --global user.name"Gugulethu-webdev"
+ 1200  git config --global user.email"mtshaliamo@gmail.com"
+ 1201  git add .
+ 1202  git commit -"my final commit for calculator_part1"
+ 1203  git remote add origin https://github.com/Gugulethu-webdev/simple_calculator_part1.git
+ 1204  git push -u origin master
+ 1205  jasmine
+ 1206  mkdir dist
+ 1207  cd dist/
+ 1208  touch index.html
+ 1209  cd ..
+ 1210  mkdir scss
+ 1211  cd scss
+ 1212  touch main.css
+ 1213  rm main.css 
+ 1214  touch main.scss
+ 1215  npm init
+ 1216  npm i node-sass
+ 1217  npm init
+ 1218  npm i node-sass
+ 1219  npm run sass
+ 1220  npm run sass
+ 1221  mkdir scss
+ 1222  cs scss/
+ 1223  cd scss/
+ 1224  touch main.scss
+ 1225  npm init
+ 1226  cd ..
+ 1227  npm i node-sass
+ 1228  npm run sass
+ 1229  ls
+ 1230  cd Desktop/
+ 1231  ls
+ 1232  cd Lwazi_Mtshali_projects/
+ 1233  mkdir my_personal_website
+ 1234  cd my_personal_website/
+ 1235  code .
+ 1236  cd ..
+ 1237  rm -r my_personal_website/
+ 1238  ls
+ 1239  mkdir portfolio_website
+ 1240  cd portfolio_website/
+ 1241  code .
+ 1242  ls
+ 1243  cd ..
+ 1244  mkdir slovo_portfolio
+ 1245  cd slovo_portfolio/
+ 1246  code .
+ 1247  cd dist/
+ 1248  mkdir js
+ 1249  cd js/
+ 1250  touch main.js
+ 1251  git init
+ 1252  git config --global user.name"slovo-mtshali"
+ 1253  git config --global user.email"lwazislovo@gmail.com"
+ 1254  git status
+ 1255  git add .
+ 1256  git status
+ 1257  git commit -m "first commit"
+ 1258  git remote add origin https://github.com/slovo-mtshali/new-portfolio.git
+ 1259  git push -u origin master
+ 1260  cd ..
+ 1261  git add .
+ 1262  git init
+ 1263  git add .
+ 1264  git init
+ 1265  git add .
+ 1266  git status
+ 1267  git commit
+ 1268  git commit -"1st commit"
+ 1269  git commit -m "1st commit"
+ 1270  git config --global user.name"slovo-mtshali"
+ 1271  git config --global user.email"lwazislovo@gmail.com"
+ 1272  git remote add origin https://github.com/slovo-mtshali/mypoti.git
+ 1273  git push -u origin master
+ 1274  mkdir dist
+ 1275  cd dist/
+ 1276  touch index.html
+ 1277  cd ..
+ 1278  mkdir scss
+ 1279  cd scss/
+ 1280  touch main.scss
+ 1281  npm init
+ 1282  npm i node-sass
+ 1283  cd ..
+ 1284  npm run sass
+ 1285  nano
+ 1286  ls
+ 1287  cd Desktop/
+ 1288  ls
+ 1289  cd Lwazi_Mtshali_projects/
+ 1290  mkdir
+ 1291  mkdir Beginner_linux_challenges
+ 1292  cd Beginner_linux_challenges/mkdir workspace
+ 1293  mkdir workspace
+ 1294  cd workspace/
+ 1295  ls
+ 1296  touch README.md
+ 1297  cp README.md CHANGELOG.md
+ 1298  ls
+ 1299  cd /
+ 1300  ls
+ 1301  cd home/recruit/Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/
+ 1302  ls
+ 1303  cd mkdir workspace
+ 1304  ls
+ 1305  mkdir Workspace
+ 1306  ls
+ 1307  cd Workspace/
+ 1308  touch README.md
+ 1309  cp README.md CHANGELOG.md
+ 1310  touch exercise.md
+ 1311  mv ../../../../../tmp 
+ 1312  sudo mv exercise.md ../../../../../tmp 
+ 1313  ls
+ 1314  cd /
+ 1315  rm exercise.md /tmp/
+ 1316  sudo rm exercise.md /tmp/
+ 1317  cd tmp/
+ 1318  ls
+ 1319  cd Des
+ 1320  cd Desktop/
+ 1321  cd Lwazi_Mtshali_projects/
+ 1322  ls
+ 1323  cd Beginner_linux_challenges/
+ 1324  ls
+ 1325  cd Workspace/
+ 1326  ls
+ 1327  touch exericse.md|sudo mv exercise.md ../../../../../tmp 
+ 1328  ls
+ 1329  cd /
+ 1330  cd tmp/
+ 1331  ls
+ 1332  ls -l
+ 1333  sudo ls
+ 1334  cd ../home/recruit/Desktop/
+ 1335  touch mm.xx | mv ../Downloads/
+ 1336  ls --help
+ 1337  touch mm.xxx | mv mm.xx ../Downloads/
+ 1338  ls ../Downloads/
+ 1339  touch gogo.xx | mv gogo ../Downloads/
+ 1340  touch gg.ff | mv gg.ff ../Downloads/
+ 1341  cd ../Downloads/
+ 1342  ls
+ 1343  cd ../Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/
+ 1344  cd Workspace/
+ 1345  ls
+ 1346  rm /home/recruit/Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/Workspace/exericse.md 
+ 1347  ls
+ 1348  nano
+ 1349  less --help
+ 1350  cd Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/Workspace/
+ 1351  ls
+ 1352  touch exercise.md | mv ../../
+ 1353  ls
+ 1354  mv exercise.md ../../
+ 1355  cd ../../
+ 1356  ls
+ 1357  rm /home/recruit/Desktop/Lwazi_Mtshali_projects/exercise.md 
+ 1358  ls
+ 1359  cd Beginner_linux_challenges/Workspace/
+ 1360  touch exercise.md | mv exercise.md ../
+ 1361  cd ../
+ 1362  ls
+ 1363  rm exercise.md 
+ 1364  cd Workspace/
+ 1365  touch exercise.md | sudo mv exercise.md ../../../../../tmp/
+ 1366  ls
+ 1367  cd /
+ 1368  cd tmp/
+ 1369  ls
+ 1370  ls -a
+ 1371  ls -al
+ 1372  sudo ls -a
+ 1373  sudo ls -al
+ 1374  cd ../home/recruit/Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/Workspace/
+ 1375  sudo rm /tmp/exercise.md
+ 1376  touch umuzi.md recruits.md cohort.md
+ 1377  ls
+ 1378  cd ../
+ 1379  rm -r Workspace/
+ 1380  ls 
+ 1381  mkdir Workspace
+ 1382  cd Workspace/
+ 1383  touch README.md
+ 1384  cp README.md CHANGELOG.md
+ 1385  touch exercise.md
+ 1386  pwd
+ 1387  mv exercise.md ../../../../../tmp/
+ 1388  sudo mv exercise.md ../../../../../tmp 
+ 1389  sudo rm /tmp/exercise.md
+ 1390  sudo rm exercise.md /tmp/
+ 1391  sudo rm /tmp/exercise.md
+ 1392  touch umuzi.md recruits.md cohort.md
+ 1393  cd ../../
+ 1394  cd ..
+ 1395  ls
+ 1396  echo "awe" gogo.xx 
+ 1397  cat gogo.xx 
+ 1398  nano gogo.xx 
+ 1399  help
+ 1400  cat --help
+ 1401  cd Lwazi_Mtshali_projects/
+ 1402  cd Beginner_linux_challenges/Workspace/
+ 1403  ls
+ 1404  less cohort
+ 1405  less cohort.md
+ 1406  cd Desktop/
+ 1407  cd Lwazi_Mtshali_projects/
+ 1408  cd slovo_portfolio/
+ 1409  cd ..
+ 1410  ls
+ 1411  cd mypoti-master/
+ 1412  code .
+ 1413  cd ..
+ 1414  cd ../../Downloads/
+ 1415  ls
+ 1416  mkdir slovo_portfolio
+ 1417  cd slovo_portfolio/
+ 1418  code.
+ 1419  code .
+ 1420  node run sass
+ 1421  npm init
+ 1422  npm install node-sass
+ 1423  npm run sass
+ 1424  npm init
+ 1425  npm i node-sass
+ 1426  mkdir dist
+ 1427  rm dist
+ 1428  rm -r dist
+ 1429  mkdir dist
+ 1430  npm run sass
+ 1431  npm i node-sass
+ 1432  npm run sass
+ 1433  npm init
+ 1434  npm i node-sass
+ 1435  npm run sass
+ 1436  node --v
+ 1437  node -v
+ 1438  node-sass -v
+ 1439  npm -v
+ 1440  npm init
+ 1441  clear
+ 1442  npm i node-sass
+ 1443  npm run sass
+ 1444  cd dist
+ 1445  mkdir js
+ 1446  cd js
+ 1447  touch main.js
+ 1448  cd ../..
+ 1449  cd Desktop/
+ 1450  ls
+ 1451  cd Lwazi_Mtshali_projects/
+ 1452  ls
+ 1453  mkdir portfolio_website
+ 1454  cd portfolio_website/
+ 1455  code .
+ 1456  cd ..
+ 1457  mkdir Gugulethu_p_website
+ 1458  cd Gugulethu_p_website/
+ 1459  code .
+ 1460  npm init
+ 1461  npm i jasmine
+ 1462  jasmine init
+ 1463  cd spec
+ 1464  touch password.spec.json
+ 1465  cd ..
+ 1466  mkdir src
+ 1467  cd src
+ 1468  password-checker.json
+ 1469  touch password-checker.json
+ 1470  cd ..
+ 1471  cd Desktop/
+ 1472  cd Lwazi_Mtshali_projects/
+ 1473  ls
+ 1474  cd P
+ 1475  cd Password-checker/
+ 1476  ls
+ 1477  code .
+ 1478  cd ..
+ 1479  rm -r Password-checker/
+ 1480  mkdir Password_checker
+ 1481  cd Password_checker/
+ 1482  code .
+ 1483  sudo lshw
+ 1484  jasmine
+ 1485  cd spec
+ 1486  touch password.spec.jasmine
+ 1487  rm password.spec.jasmine 
+ 1488  touch password.spec.json
+ 1489  cd ../src/
+ 1490  touch password.json
+ 1491  npm run jasmine
+ 1492  npm init
+ 1493  jasmine init
+ 1494  cd spec/
+ 1495  touch pasword.spec.json
+ 1496  cd ..
+ 1497  mkdir src
+ 1498  cd src/
+ 1499  touch password.json
+ 1500  cd ../spec/
+ 1501  cd ..
+ 1502  ls
+ 1503  cd Desktop/
+ 1504  ls
+ 1505  cd Lwazi_Mtshali_projects/
+ 1506  ls
+ 1507  cd Password_checker/
+ 1508  ls
+ 1509  rm -r .
+ 1510  code .
+ 1511  cd ..
+ 1512  rm -r Password_checker/
+ 1513  ls
+ 1514  mkdir Password-checker
+ 1515  cd Password-checker/
+ 1516  code .
+ 1517  cd ..
+ 1518  ls
+ 1519  cd simple_calculator1/
+ 1520  ls
+ 1521  code .
+ 1522  cd ..
+ 1523  ls
+ 1524  cd Password-checker/
+ 1525  ls
+ 1526  rm -r spec/
+ 1527  rm -r src/
+ 1528  rm package.json 
+ 1529  code .
+ 1530  ls
+ 1531  sudo apt upgrade && npm install -g jasmine
+ 1532  sudo apt-get update
+ 1533  sudo apt-get install curl
+ 1534  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash 
+ 1535  sudo apt-get install nodejs
+ 1536  sudo apt upgrade && npm install -g jasmine
+ 1537  npm init
+ 1538  npm jasmine init
+ 1539  jasmine init
+ 1540  cd spec/
+ 1541  touch password.spec.js
+ 1542  cd ..
+ 1543  mkdir src
+ 1544  cd src
+ 1545  touch password.js
+ 1546  jasmine
+ 1547  cd ..
+ 1548  cd Desktop/
+ 1549  cd Lwazi_Mtshali_projects/
+ 1550  cd Password-checker/
+ 1551  ls
+ 1552  cd ..
+ 1553  rm -r Password-checker/
+ 1554  ls
+ 1555  mkdir passWordChecker
+ 1556  cd passWordChecker/
+ 1557  code .
+ 1558  jasmine init
+ 1559  cd spec/
+ 1560  touch password.spec.js
+ 1561  cd ..
+ 1562  mkdir src
+ 1563  cd src
+ 1564  touch password.js
+ 1565  cd ..
+ 1566  jasmine
+ 1567  git init
+ 1568  git config -g
+ 1569  got init
+ 1570  git init
+ 1571  git config --global user.name"Gugulethu-webdev"
+ 1572  git config --global user.email"mtshaliamo@gmail.com"
+ 1573  git init --global user.name"Gugulethu-webdev"
+ 1574  git init
+ 1575  git config --global user.name"Gugulethu-webdev"
+ 1576  git config user.email"mtshaliamo@gmail.com"
+ 1577  git add .
+ 1578  git commit -m"final commit"
+ 1579  git remote add origin https://github.com/Gugulethu-webdev/passwordChecker.git
+ 1580  git config --global user.name"slovo-mtshali"
+ 1581  git config --global user.email"lwazislovo@gmail.com"
+ 1582  git add .
+ 1583  git commit -m"last commit"
+ 1584  git status
+ 1585  git rm -cached
+ 1586  git rm --cached
+ 1587  git status
+ 1588  git init
+ 1589  git config --global user.name"slovo-mtshali"
+ 1590  git config --global user.email"lwazislovo@gmail.com"
+ 1591  git add .
+ 1592  git commit -m"final commit"
+ 1593  git remote add origin https://github.com/slovo-mtshali/passWordChecker.git
+ 1594  git push -u origin master
+ 1595  ls 
+ 1596  cd Desktop/
+ 1597  ls
+ 1598  cd Lwazi_Mtshali_projects/
+ 1599  ls
+ 1600  cd passWordChecker/
+ 1601  ls
+ 1602  code .
+ 1603  cd ..
+ 1604  ls
+ 1605  cd Password/
+ 1606  code .
+ 1607  cd ..
+ 1608  cd passWordChecker/
+ 1609  code .
+ 1610  cd ..
+ 1611  ls
+ 1612  cd Password/
+ 1613  ls
+ 1614  code .
+ 1615  ls
+ 1616  cat mm.txt 
+ 1617  echo "slovo" is awesome > mm.txt 
+ 1618  cat mm.txt 
+ 1619  echo "es vaar" >> mm.txt 
+ 1620  cat mm.txt 
+ 1621  cat mama.dd
+ 1622  echo "yuoooh" . mama.dd
+ 1623  cat mama.dd
+ 1624  echo "yoooh" > mama.dd
+ 1625  cat mama.dd
+ 1626  cat mm.txt mama.dd
+ 1627  tocuh pp.bb | cat mm.txt mama.dd > pp.bb
+ 1628  touch pp.bb | cat mm.txt mama.dd > pp.bb
+ 1629  cat pp.bb 
+ 1630  pwd
+ 1631  touch minanawe.md /home/recruit/Desktop/
+ 1632  cd Desktop/
+ 1633  ls
+ 1634  touch /home/recruit/Desktop/minanawe.md
+ 1635  ls
+ 1636  cp ../Documents/mm.xxx mm2.xxx
+ 1637  cp mm.xxx ../Documents/ mmm2.xxx
+ 1638  cp mm.xxx ../Documents/ mm2.xxx
+ 1639  cp ../Documents/mm2.xxx
+ 1640  cp mm.xxx mm2.xxx | mv mm2.xxx ../Documents/
+ 1641  ls cd ..
+ 1642  ls ../Documents/
+ 1643  cp mm2.xxx mm3.xxx /home/recruit/Desktop/
+ 1644  cp mm2.xxx mm3.xxx ../Documents/
+ 1645  cp mm2.xxx ../Documents/mmm3.xxx
+ 1646  cp mm2.xxx mm3.xxx
+ 1647  ls
+ 1648  cp cd ../Documents/
+ 1649  ls ../Documents/
+ 1650  cp ../Documents/lwazi.txt mina.nana
+ 1651  ls
+ 1652  cd -
+ 1653  cd Documents/
+ 1654  locate pad_copy.md
+ 1655  cd ../Desktop/
+ 1656  locate mina.nana
+ 1657  find *.md
+ 1658  history -p
+ 1659  cp history -p ../Desktop/
+ 1660  touch history.dd
+ 1661  echo history -p > history.dd 
+ 1662  cat history.dd 
+ 1663  cd Lwazi_Mtshali_projects/Beginner_linux_challenges/workspace/
+ 1664  ls
+ 1665  less
+ 1666  less --help
+ 1667  find *.md
+ 1668  LESS
+ 1669  less
+ 1670  history
+ 1671  history | less
+ 1672  les
+ 1673  less
+ 1674  less mm.txt 
+ 1675  ls
+ 1676  find *pdf
+ 1677  find .*pdf
+ 1678  find *.md
+ 1679  find *.md | mv *.md mamazi
+ 1680  ls
+ 1681  find *.md | mv *.md mamazi
+ 1682  ls -ltr
+ 1683  nano mymlando
+ 1684  nano
+ 1685  ls
+ 1686  cd Documents/
+ 1687  ls
+ 1688  nano slovo
+ 1689  ls
+ 1690  cd slovo
+ 1691  less slovo
+ 1692  cd Desktop/
+ 1693  cd Lwazi_Mtshali_projects/
+ 1694  cd Beginner_linux_challenges/
+ 1695  ld
+ 1696  ls
+ 1697  touch exercise.md | sudo mv exercise.md ../../../../../../tmp/
+ 1698  touch ll.txt
+ 1699  rm /home/recruit/Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/workspace/ll.txt
+ 1700  ls 
+ 1701  cd ..
+ 1702  rm /home/recruit/Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/workspace/ll.txt
+ 1703  rm ll.txt /home/recruit/Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/workspace/
+ 1704  ls
+ 1705  cd Beginner_linux_challenges/cd workspace/
+ 1706  cd workspace/
+ 1707  ls
+ 1708  cd ..
+ 1709  ls
+ 1710  cd ..
+ 1711  ls
+ 1712  cd Lwazi_Mtshali_projects/
+ 1713  rm /home/recruit/Desktop/gogo.xx 
+ 1714  touchumuzi.md recruits.md cohort.md
+ 1715  touch umuzi.md recruits.md cohort.md
+ 1716  ls
+ 1717  mv recruits.md cohort.md umuzi.md workspace/
+ 1718  cd workspace/
+ 1719  ls
+ 1720  pwd
+ 1721  echo "umuzi is home" > umuzi.md 
+ 1722  echo "umuzi is awesome" > recruits.md 
+ 1723  echo "umuzi is great" > cohort.md 
+ 1724  cat umuzi.md recruits.md cohort.md 
+ 1725  touch summary.md | cat umuzi.md recruits.md cohort.md > summary.md
+ 1726  echo "The End" > summary.md 
+ 1727  cat summary.md 
+ 1728  ls
+ 1729  cat umuzi.md recruits.md cohort.md >summary.md | echo >> "The End"
+ 1730  cat summary.md 
+ 1731  echo "The End" >> summary.md 
+ 1732  cat summary.md 
+ 1733  locate gogo.txt
+ 1734  locate umuzi.md 
+ 1735  tocch search_result.md | locate umuzi.md > search_result.md
+ 1736  touch search_result.md | locate umuzi.md > search_result.md
+ 1737  cat search_result.md 
+ 1738  touch ../../../Documents/pad.md
+ 1739  cd ../../
+ 1740  mkdir work
+ 1741  cp ../Documents/pad.md pad_copy.md
+ 1742  ls
+ 1743  cd ../Documents/
+ 1744  ls
+ 1745  cd ../Desktop/
+ 1746  locate updateb
+ 1747  cd -
+ 1748  locate pad_copy.md
+ 1749  locate pad.md 
+ 1750  nano
+ 1751  ls
+ 1752  less Task\ 5\ -\ Task\ 7\ Commands 
+ 1753  cd /home/recruit/Desktop/Lwazi_Mtshali_projects/workspace/
+ 1754  ls
+ 1755  cat summary.md 
+ 1756  ls ../../../Desktop/
+ 1757  cd work
+ 1758  cd ../../../Desktop/
+ 1759  ls
+ 1760  cd work/
+ 1761  ls
+ 1762  cd ..
+ 1763  cd /home/recruit/Desktop/Lwazi_Mtshali_projects/Beginner_linux_challenges/
+ 1764  ls
+ 1765  rm ll.txt 
+ 1766  cd workspace/
+ 1767  ls
+ 1768  cd ..
+ 1769  ls
+ 1770  cd ..
+ 1771  ls
+ 1772  cd Beginner_linux_challenges/workspace/
+ 1773  ls
+ 1774  find summary.md
+ 1775  cd Desktop/Lwazi_Mtshali_projects/
+ 1776  mkdir password2
+ 1777  cd password2
+ 1778  code .
+ 1779  cd Desktop/Lwazi_Mtshali_projects/Password/
+ 1780  code .
+ 1781  cd Desktop/okusha/
+ 1782  git init
+ 1783  cd ..
+ 1784  mkdir NEw
+ 1785  cd NEw/
+ 1786  code .
+ 1787  node --version
+ 1788  npm --version
+ 1789  npm init
+ 1790  npm install jasmine
+ 1791  jasmine init
+ 1792  cd spec
+ 1793  touch password2.spec.js
+ 1794  cd .. 
+ 1795  mkdir src
+ 1796  cd src
+ 1797  touch password2.js
+ 1798  jasmine
+ 1799  jasmine password2.spec.js
+ 1800  cd ..
+ 1801  jasmine
+ 1802  node password2
+ 1803  node password2.js
+ 1804  node run password2.js
+ 1805  node run password2
+ 1806  node run password2.js
+ 1807  node password2.js
+ 1808  password2
+ 1809  node password2
+ 1810  node password2.js
+ 1811  cd src
+ 1812  node password2.js
+ 1813  node password2
+ 1814  node password2.js
+ 1815  cd ..
+ 1816  jasmine
+ 1817  cd spec
+ 1818  jasmine
+ 1819  cd ..
+ 1820  jsamine
+ 1821  jasmine
+ 1822  jasmnine
+ 1823  jasmine
+ 1824  cd ../spec
+ 1825  cd spec/
+ 1826  jasmnine
+ 1827  jasmine
+ 1828  cd ..
+ 1829  jasmine
+ 1830  node passwoed2.js
+ 1831  cd src
+ 1832  node passwoed2.js
+ 1833  node password2.js
+ 1834  cd ..
+ 1835  jasmine
+ 1836  cd src
+ 1837  node password2.js
+ 1838  mkdir spec
+ 1839  mkdir src
+ 1840  git init
+ 1841  git add .
+ 1842  git config --global user.name"slovo-mtshali"
+ 1843  git config --global user.email"lwazislovo@gmail.com"
+ 1844  git remote add origin https://github.com/slovo-mtshali/passs.git
+ 1845  git push -u origin master
+ 1846  npm i jasmine
+ 1847  jasmine init
+ 1848  cd source
+ 1849  node newPasswordChecker.js
+ 1850  cd ..
+ 1851  node --version
+ 1852  npm --version
+ 1853  npm i jasmine
+ 1854  npm init
+ 1855  jasmine init
+ 1856  cd spec
+ 1857  touch passwordChecker.spec.js
+ 1858  jasmine 
+ 1859  cd ..
+ 1860  jasmine 
+ 1861  mkdir source
+ 1862  cd source
+ 1863  touch passwordChecker.js
+ 1864  node passwordChecker.js
+ 1865  cd ..
+ 1866  git init
+ 1867  gti add .
+ 1868  git add .
+ 1869  git config --global user.name"Gugulethu-webdev"
+ 1870  git config --globa user.email"mtshaliamo@gmail.com"
+ 1871  git remote add origin https://github.com/Gugulethu-webdev/newPasswordChecker.git
+ 1872  git push -u origin master
+ 1873  git remote add origin https://github.com/Gugulethu-webdev/newPasswordChecker.git
+ 1874  git push -u origin master
+ 1875  mkdir .gitignore
+ 1876  touch .gitignore
+ 1877  git remote add origin https://github.com/Gugulethu-webdev/newPasswordChecker.git
+ 1878  touch .gitignore
+ 1879  git push -u origin master
+ 1880  git remote add origin https://github.com/Gugulethu-webdev/newPasswordChecker.git
+ 1881  git push -u origin master
+ 1882  node --version
+ 1883  npm --version
+ 1884  jasmine --version
+ 1885  npm init
+ 1886  npm i jasmine
+ 1887  jasmine init
+ 1888  node password.js
+ 1889  cd src
+ 1890  ls
+ 1891  cd spec
+ 1892  ls
+ 1893  cd ..
+ 1894  mkdir src
+ 1895  cd src
+ 1896  ls
+ 1897  node password.js
+ 1898  git init
+ 1899  mkdir .gitignore
+ 1900  cd .gitignore
+ 1901  node password.js
+ 1902  cd ..
+ 1903  node password.js
+ 1904  cd ..
+ 1905  jasmine
+ 1906  git add .
+ 1907  git init
+ 1908  git add .
+ 1909  git status
+ 1910  git config --global user.name"Gugulethu-webdev"
+ 1911  git config --global user.email"mtshaliamo@gmail.com"
+ 1912  git remote add origin https://github.com/Gugulethu-webdev/passwordChecker2.git
+ 1913  git push -u origin master
+ 1914  git remote add origin https://github.com/Gugulethu-webdev/passwordChecker.git
+ 1915  git push -u origin master
+ 1916  git push
+ 1917  git push --set-upstream origin master
+ 1918  node password.js
+ 1919  node --version
+ 1920  jasmine --version
+ 1921  npm init
+ 1922  npm i jasmine
+ 1923  jasmine init
+ 1924  jasmine
+ 1925  node password.js
+ 1926  cd src
+ 1927  node password.js
+ 1928  cd ..
+ 1929  git init
+ 1930  rm -r .git
+ 1931  cd Desktop/Lwazi_Mtshali_projects/password/
+ 1932  cd Desktop/Lwazi_Mtshali_projects/
+ 1933  ls
+ 1934  cd Password/
+ 1935  code .
+ 1936  cd ..
+ 1937  ls
+ 1938  mkdir passwordChecker2
+ 1939  cd passwordChecker2
+ 1940  code .
+ 1941  cd ../../
+ 1942  ls
+ 1943  mkdir newPasswordChecker
+ 1944  cd newPasswordChecker/
+ 1945  code .
+ 1946  cd ..
+ 1947  ls
+ 1948  cd Downloads/
+ 1949  mkdir passwordProject
+ 1950  cd passwordProject/
+ 1951  code .
+ 1952  git init
+ 1953  git config--global user.name"Gugulethu-webdev"
+ 1954  git config --global user.name"Gugulethu-webdev"
+ 1955  git config --global user.email"mtshaliamo@gmail.com"
+ 1956  git remote add origin https://github.com/Gugulethu-webdev/newPasswordChecker.git
+ 1957  git push -u origin master
+ 1958  git add .
+ 1959  git status 
+ 1960  git remote add origin https://github.com/Gugulethu-webdev/newPasswordChecker.git
+ 1961  git push -u origin master
+ 1962  code .
+ 1963  git init
+ 1964  git status
+ 1965  git config --global user.name"lwazi-mtshali"
+ 1966  git config --global user.email"lwazi.mtshali@umuzi.org"
+ 1967  git add .
+ 1968  git commit -m"final commit"
+ 1969  git remote add origin https://github.com/Lwazi-Mtshali/passwordProject.git
+ 1970  git push -u origin master
+ 1971  git config --global user.name"Gugulethu-webdev'
+ 1972  gti config --global user.name"Gugulethu-webdev"
+ 1973  git config --global user.name"Gugulethu-webdev"
+ 1974  git config --global user.email"mtshaliamo@gmail.com"
+ 1975  git push -u origin master
+ 1976  jasmine
+ 1977  cd source
+ 1978  node newPasswordChecker.js
+ 1979  git init
+ 1980  git add .
+ 1981  git status
+ 1982  git commit -m "proper work"
+ 1983  git remote add origin https://github.com/Gugulethu-webdev/newPasswordChecker.git
+ 1984  git push -u origin master
+ 1985  git config --global user.name"Gugulethu-webdev"
+ 1986  git config --global user.email"mtshaliamo@gmail.com"
+ 1987  git push -u origin master
+ 1988  cd Desktop/Lwazi_Mtshali_projects/git-basic-exercises/
+ 1989  git log
+ 1990  git status
+ 1991  cat README.md 
+ 1992  cd ..
+ 1993  rm -r git-basic-exercises/
+ 1994  ls
+ 1995  mkdir git-basic-exercises
+ 1996  cd git-basic-exercises/
+ 1997  ls -a
+ 1998  git init
+ 1999  ls -a
+ 2000  git status
+ 2001  touch README.md
+ 2002  ls -a
+ 2003  git status
+ 2004  git log
+ 2005  git add .
+ 2006  git status
+ 2007  git rm --cached README.md 
+ 2008  git status
+ 2009  git add .
+ 2010  git commit -m"initial commit"
+ 2011  got log
+ 2012  git log
+ 2013  nano README.md
+ 2014  cat README.md 
+ 2015  git status
+ 2016  git add .
+ 2017  git commit -m"second commit"
+ 2018  echo "I'm slovo">> README.md 
+ 2019  git add .
+ 2020  git commit -m"third commit"
+ 2021  git log
+ 2022  git checkout f875db30fa12cd442d6a5d95f9b7bd8ad32a992d
+ 2023  git log
+ 2024  git branch
+ 2025  cd ..
+ 2026  rm -r git-basic-exercises/
+ 2027  mkdir git-basic-exercises
+ 2028  cd git-basic-exercises/
+ 2029  git init
+ 2030  touch README.md
+ 2031  git add .
+ 2032  git commit -m"initial commit"
+ 2033  nano README.md 
+ 2034  cat README.md 
+ 2035  git add .
+ 2036  git commit -m"second commit"
+ 2037  echo "everyone is awesome" >> README.md 
+ 2038  git add .
+ 2039  git commit -m"third commit"
+ 2040  git log
+ 2041  git branch milkshake-flavours
+ 2042  git branch
+ 2043  git checkout milkshake-flavours 
+ 2044  nano milkshake.md
+ 2045  git add .
+ 2046  git commit -m"added initial flavours"
+ 2047  git log
+ 2048  git checkout master 
+ 2049  git branch history
+ 2050  git checkout history 
+ 2051  git log
+ 2052  history > history.txt
